@@ -1,5 +1,3 @@
-#Configuration for failfast=false
-
 # HTTP Server
 server:
   port: ${PORT:8761}   # HTTP port 
