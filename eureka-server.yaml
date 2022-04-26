@@ -1,6 +1,6 @@
 # HTTP Server
 server:
-  port: ${PORT:8762}   # HTTP port 
+  port: ${PORT:8761}   # HTTP port 
 
 # Configure this Discovery Server
 eureka:
